@@ -5,7 +5,7 @@ import Header from './components/header/header.component';
 
 function App() {
   return (
-    <div>
+    <div style={{backgroundColor:'purple', height:'1200px'}}>
       <Header />
     </div>
   );
