@@ -1,0 +1,13 @@
+.description-wrapper {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.description_highlight {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 300;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  padding: 30px 0px;
+}
